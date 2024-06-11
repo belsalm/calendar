@@ -79,7 +79,11 @@ const bookings = [
       to: '05-26-2024',
       middayCheckout: false,
     },
-
+    {
+      from: '06-15-2024',
+      to: '06-16-2024',
+      middayCheckout: false,
+    },
     {
       from: '06-22-2024',
       to: '06-23-2024',
@@ -88,11 +92,6 @@ const bookings = [
     {
       from: '06-29-2024',
       to: '06-30-2024',
-      middayCheckout: false,
-    },
-    {
-      from: '07-06-2024',
-      to: '07-07-2024',
       middayCheckout: false,
     },
     {
