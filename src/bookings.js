@@ -110,8 +110,8 @@ const bookings = [
       middayCheckout: false,
     },
     {
-      from: '08-17-2024',
-      to: '08-18-2024',
+      from: '08-10-2024',
+      to: '08-11-2024',
       middayCheckout: false,
     },
     {
