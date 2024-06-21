@@ -85,11 +85,6 @@ const bookings = [
       middayCheckout: false,
     },
     {
-      from: '06-22-2024',
-      to: '06-23-2024',
-      middayCheckout: false,
-    },
-    {
       from: '06-29-2024',
       to: '06-30-2024',
       middayCheckout: false,
@@ -110,6 +105,11 @@ const bookings = [
       middayCheckout: false,
     },
     {
+      from: '08-10-2024',
+      to: '08-11-2024',
+      middayCheckout: false,
+    },
+    {
       from: '08-17-2024',
       to: '08-18-2024',
       middayCheckout: false,
@@ -117,6 +117,11 @@ const bookings = [
     {
       from: '08-31-2024',
       to: '09-01-2024',
+      middayCheckout: false,
+    },
+    {
+      from: '09-07-2024',
+      to: '09-08-2024',
       middayCheckout: false,
     },
     {
@@ -132,6 +137,11 @@ const bookings = [
     {
       from: '10-12-2024',
       to: '10-13-2024',
+      middayCheckout: false,
+    },
+    {
+      from: '10-19-2024',
+      to: '10-20-2024',
       middayCheckout: false,
     },
     {
@@ -152,6 +162,16 @@ const bookings = [
     {
       from: '11-23-2024',
       to: '11-24-2024',
+      middayCheckout: false,
+    },
+    {
+      from: '11-30-2024',
+      to: '12-01-2024',
+      middayCheckout: false,
+    },
+    {
+      from: '12-07-2024',
+      to: '12-08-2024',
       middayCheckout: false,
     },
     {
